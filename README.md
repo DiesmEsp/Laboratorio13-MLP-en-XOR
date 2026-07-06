@@ -30,6 +30,10 @@ La entrega puede orientarse de dos formas:
 * como script `.py`, priorizando una solucion tecnica directa y reproducible
 * como notebook `.ipynb`, priorizando la explicacion paso a paso del procedimiento
 
+## Archivo principal de la entrega
+
+* `xor_mlp.ipynb`: notebook con el desarrollo completo de la tarea, incluyendo explicacion, iteracion manual, entrenamiento y validacion final.
+
 ## Resultado esperado
 
 Al finalizar la tarea, se espera contar con una implementacion funcional del MLP, una explicacion clara del proceso de entrenamiento y evidencia de que la red logra modelar correctamente la compuerta XOR.
